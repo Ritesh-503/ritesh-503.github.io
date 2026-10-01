@@ -59742,10 +59742,10 @@ $S:381}
 A.C2.prototype={
 P(a){return new A.jj("Projects",A.aby(new A.Vk()),null)}}
 A.Vk.prototype={
-$2(a,b){var s,r="https://github.com/Ritesh-503",q=null,p=b.b
-p=p<700?p:(p-30)/2
+$2(a,b){var s,r=null,q=b.b
+q=q<700?q:(q-30)/2
 s=t.qM
-return A.En(B.dl,A.d([A.YD(new A.nA(B.zK,"Expense Tracker","A personal expense tracking application built with Flutter, featuring expense categories, totals, deletion and local storage.",A.d([new A.lr("GitHub",B.hi,r)],s),q),q,p),A.YD(new A.nA(B.zP,"ML-Based Motor Load Sharing","A machine-learning-assisted project for load sharing between two BL motors in a conveyor-belt prototype.",A.d([new A.lr("GitHub",B.hi,r)],s),q),q,p),A.YD(new A.nA(B.zO,"EV Charging Infrastructure Optimization","A research project on congestion-aware optimization of EV charging infrastructure using real urban road networks.",B.BO,q),q,p)],t.E),30,30)},
+return A.En(B.dl,A.d([A.YD(new A.nA(B.zK,"Expense Tracker","A personal expense tracking application built with Flutter, featuring expense categories, totals, deletion and local storage.",A.d([new A.lr("GitHub",B.hi,"https://github.com/Ritesh-503/expense-tracker")],s),r),r,q),A.YD(new A.nA(B.zP,"ML-Based Motor Load Sharing","A machine-learning-assisted project for load sharing between two BL motors in a conveyor-belt prototype.",A.d([new A.lr("GitHub",B.hi,"https://github.com/Ritesh-503")],s),r),r,q),A.YD(new A.nA(B.zO,"EV Charging Infrastructure Optimization","A research project on congestion-aware optimization of EV charging infrastructure using real urban road networks.",B.BO,r),r,q)],t.E),30,30)},
 $S:382}
 A.lr.prototype={}
 A.nA.prototype={
