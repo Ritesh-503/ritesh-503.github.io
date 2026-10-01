@@ -59769,7 +59769,7 @@ A.MV.prototype={
 $0(){A.ml("https://mail.google.com/mail/?view=cm&fs=1&to=gudururitesh@gmail.com")},
 $S:0}
 A.MW.prototype={
-$0(){A.ml("https://in.linkedin.com/in/guduru-ritesh-433308325")},
+$0(){A.ml("https://in.linkedin.com/in/ritesh-guduru-433308325")},
 $S:0}
 A.MX.prototype={
 $0(){A.ml("https://github.com/Ritesh-503")},
